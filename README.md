@@ -23,13 +23,13 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
  <br>
-## S.O
+S.O
 <div style="display: inline_block;"> <br/>
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
 </div>
  <br>
-## Ferramentas
+Ferramentas
 <div style="display: inline_block;"> <br/>
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-0078D6?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
