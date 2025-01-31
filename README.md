@@ -5,8 +5,7 @@
 ### Com minha experiência em [Laravel, PHP, Bootstrap, Js, Css, HTML, Git/GitFlow, GitHub, Docker, Postman, Vs code, Firefox, Mysql e Sqlite]. Sólido conhecimento em desenvolvimento de APIs, integração de sistemas e otimização de performance. Atuação em projetos [plataforma web de gestão escolar, blog de notícias, desenvolvimento de ApiRest com Laravel].
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luischilembo.mateus) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-chilembo-mateus-9ba822234%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR1BaSrunTgJMctjOGSmXSNPc06x7SQs-60lfAU88t1Dfrw2u-R9JUE4_TI&h=AT1IR0bCHHlUXaHnaAALViwj9jAKhUbGFEa2wReQsgWCRoCAIFk-nvNnkxMI7z0e0M2I19OfIDvhoqzmM5XOgB9dBc2_fZUHR2IFWXs7EbwKUSkT5-foQojZP1IIjf_lDQamSg)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luischilembomateus@gmail.com)
-
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luischilembomateus@gmail.com) 
  
 ![Algoritmo2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Algoritmo2018&show_icons=true&theme=tokyonight)
 
