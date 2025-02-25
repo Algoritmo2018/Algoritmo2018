@@ -1,6 +1,6 @@
 
 
-### :haircut_man: Olá Eu sou o Luis Chilembo Mateus, sou angolano :angola:, atualmente vivo em Angola.
+### :haircut_man: Olá Eu sou o Luis Chilembo Mateus, Desenvolvedor backend web, sou angolano :angola:, atualmente vivo em Angola.
 ### :student: Atualmente sou estudante universitário.
 ### Tenho experiência em [Laravel, PHP, Bootstrap, Js, Css, HTML, Git/GitFlow, GitHub, Docker, Postman, Vs code, Firefox, Mysql e Sqlite]. Sólido conhecimento em desenvolvimento de APIs, integração de sistemas e otimização de performance. Atuação em projetos como [plataforma web de gestão escolar, blog de notícias, desenvolvimento de ApiRest com Laravel].
 
