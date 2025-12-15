@@ -6,9 +6,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luischilembo.mateus) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-chilembo-mateus-9ba822234%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR1BaSrunTgJMctjOGSmXSNPc06x7SQs-60lfAU88t1Dfrw2u-R9JUE4_TI&h=AT1IR0bCHHlUXaHnaAALViwj9jAKhUbGFEa2wReQsgWCRoCAIFk-nvNnkxMI7z0e0M2I19OfIDvhoqzmM5XOgB9dBc2_fZUHR2IFWXs7EbwKUSkT5-foQojZP1IIjf_lDQamSg)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luischilembomateus@gmail.com) 
  
-![Algoritmo2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Algoritmo2018&show_icons=true&theme=default)
+![Algoritmo2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Algoritmo2018&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algoritmo2018&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Algoritmo2018&size_weight=0.5&count_weight=0.5&theme=dark)
+
 
 ## Tecnologias que eu uso no meu dia dia
 <div style="display: inline_block;"> 
