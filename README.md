@@ -1,41 +1,141 @@
+<div align="center">
+
+# Luis Chilembo Mateus
+
+### Software Developer • Backend • Laravel • Arquitetura • Automação
+
+Construindo soluções simples, sustentáveis e preparadas para crescer.
+
+<br>
+
+<a href="https://www.linkedin.com/in/luis-chilembo-mateus-9ba822234">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:luischilembomateus@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Sobre Mim
+
+Sou desenvolvedor de software com interesse em construir soluções que unem simplicidade, desempenho e capacidade de evolução.
+
+Gosto de transformar problemas em sistemas claros, escaláveis e sustentáveis, mantendo o equilíbrio entre velocidade de entrega, qualidade técnica e experiência de utilização.
+
+Acredito em melhoria contínua, boas práticas e em criar software preparado para crescer.
+
+### Competências Principais:
+
+* Arquitetura Backend
+* APIs REST
+* Laravel & PHP
+* Docker
+* Testes automatizados
+* Qualidade de código
+
+> Planear • Construir • Medir • Melhorar
+
+---
+
+# Estatísticas
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Algoritmo2018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algoritmo2018&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=Algoritmo2018&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# Tempo de Código • WakaTime
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/wakatime?username=Algoritmo2018&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# Stack Principal
+
+## Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+</p>
+
+---
+
+## Base de Dados
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
 
 
-### Olá Eu sou o Luis Chilembo Mateus, eu gosto de aprender, reaprender e descansar.
+---
 
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luischilembo.mateus) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-chilembo-mateus-9ba822234%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR1BaSrunTgJMctjOGSmXSNPc06x7SQs-60lfAU88t1Dfrw2u-R9JUE4_TI&h=AT1IR0bCHHlUXaHnaAALViwj9jAKhUbGFEa2wReQsgWCRoCAIFk-nvNnkxMI7z0e0M2I19OfIDvhoqzmM5XOgB9dBc2_fZUHR2IFWXs7EbwKUSkT5-foQojZP1IIjf_lDQamSg)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luischilembomateus@gmail.com) 
+<div align="center">
  
-
-## Tecnologias que eu uso no meu dia dia
-<div style="display: inline_block;"> 
-<img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+### Código claro. Sistemas escaláveis. Evolução contínua.
 
 </div>
- <br>
-S.O
-<div style="display: inline_block;"> <br/>
-<img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-<img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
-</div>
- <br>
-Ferramentas
-<div style="display: inline_block;"> <br/>
-<img align="center" alt="postman" src="https://img.shields.io/badge/postman-E44C30?style=for-the-badge&logo=postman&logoColor=white"> 
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-0078D6?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
-<img align="center" alt="vs code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
-<img align="center" alt="firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> 
-<img align="center" alt="chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> 
-<img align="center" alt="opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"> 
- <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> 
-</div>
-
-
- 
