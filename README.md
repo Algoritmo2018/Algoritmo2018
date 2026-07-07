@@ -41,46 +41,6 @@ Acredito em melhoria contínua, boas práticas e em criar software preparado par
 
 ---
 
-# Estatísticas
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Algoritmo2018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algoritmo2018&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Algoritmo2018&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-# Tempo de Código • WakaTime
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/wakatime?username=Algoritmo2018&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
 # Stack Principal
 
 ## Backend
